@@ -1,8 +1,5 @@
 # Budget & Expense Management
 
-(Same process as the fall-detector project — adapted for this
-project's higher hardware cost.)
-
 ## Roles
 
 - **Treasurer:** logs every purchase, tracks running totals against
@@ -11,7 +8,7 @@ project's higher hardware cost.)
 
 ## Funding
 
-- This project has meaningfully higher hardware costs than a wearable
+- This project has meaningful hardware costs
   (autopilot board, motors/ESCs, sonar module, multiple water-quality
   probes, hull materials, battery). Strongly consider pursuing a
   small department/faculty/sponsor grant before assuming this is all
@@ -55,6 +52,5 @@ At each monthly milestone check-in, the Treasurer reports: total
 spent so far, spent per sub-team, remaining budget, and known
 upcoming costs (e.g. the sonar module purchase, DO probe if budget
 allows). Adjust allocation if one sub-team is running hot — this
-project's costs are more front-loaded (most big-ticket items are
-bought in Month 1) than the fall-detector's, so watch the early
-months closely.
+project's costs are front-loaded (most big-ticket items are bought
+in Month 1), so watch the early months closely.

@@ -89,10 +89,9 @@ still delivering the actual goal: real seafloor and water-quality data.
    post-mission map generation (turn logged depth+GPS+water-quality
    points into an actual 2D/3D map/heatmap), data export/storage.
 
-One person from the group acts as overall Project Lead (cross-cutting,
-same governance model as the fall-detector project — see that repo's
-`docs/GOVERNANCE.md` for the reusable leadership/decision-making/
-budget process, which applies here unchanged).
+One person from the group acts as overall Project Lead (cross-cutting
+role — see `docs/GOVERNANCE.md` for the leadership/decision-making/
+budget process).
 
 ## Sensors — "every kind that provides useful information"
 
@@ -137,8 +136,8 @@ Stretch (add once the MVP survey mission works end-to-end):
 - Flash ArduPilot Rover on the autopilot board, bench-test manual RC
   control of the motors (no water yet)
 - Define interface contracts between sub-teams (telemetry data format,
-  sensor logging schema, dashboard API) — see fall-detector repo's
-  `docs/decisions/TEMPLATE.md` for the format to reuse
+  sensor logging schema, dashboard API) — use `docs/decisions/TEMPLATE.md`
+  for the write-up format
 
 **Month 2 — First water test (manual control)**
 - Hull assembled, motors/props mounted, waterproof enclosure sealed
@@ -206,12 +205,12 @@ past 6 months, but promising them now would overcommit the project.
   as the first thing to cut if budget is tight, add back once other
   parts are validated
 
-## Reused infrastructure from the fall-detector project
+## Project infrastructure
 
-- Same governance model (Project Lead + sub-team Technical Leads,
+- Governance model (Project Lead + sub-team Technical Leads,
   interface-contract-first collaboration, weekly sync + bi-weekly
-  demo cadence) — see the fall-detector repo's `docs/GOVERNANCE.md`.
-- Same budget/expense tracking process — see `docs/BUDGET.md` and the
-  `docs/expenses.csv` pattern.
-- Same GitHub workflow (branch per sub-team/feature, PR review, Project
+  demo cadence) — see `docs/GOVERNANCE.md`.
+- Budget/expense tracking process — see `docs/BUDGET.md` and
+  `docs/expenses.csv`.
+- GitHub workflow (branch per sub-team/feature, PR review, Project
   board as source of truth) — see `CONTRIBUTING.md`.

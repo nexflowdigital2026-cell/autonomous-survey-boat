@@ -45,9 +45,4 @@ Project board: https://github.com/users/nexflowdigital2026-cell/projects/2
 See `docs/PLAN.md` for full scope per sub-team and the month-by-month
 roadmap.
 
-## Related project
 
-This project reuses the governance/budget/workflow structure
-developed for the team's other project, the fall-detection wearable
-(github.com/nexflowdigital2026-cell/fall-detector) — see that repo if
-you want the original templates these docs are adapted from.

@@ -1,8 +1,7 @@
 # Team Governance & Workflow
 
 How this project is organized. Read this before your first
-contribution. (Adapted from the fall-detector project's governance
-model — same principles, applied to a 5-sub-team, 13-person project.)
+contribution.
 
 ## Leadership
 
@@ -57,8 +56,7 @@ spec/a mock instead of waiting:
 - **Sensing -> Backend/Dashboard:** the GPS-tagged sensor reading
   schema used for post-mission map generation.
 
-Template for a contract doc: `docs/decisions/TEMPLATE.md` (same
-template as the fall-detector project).
+Template for a contract doc: `docs/decisions/TEMPLATE.md`.
 
 ## Git workflow
 
@@ -77,10 +75,10 @@ See `CONTRIBUTING.md`.
 ## Budget & expenses
 
 See `docs/BUDGET.md` for the process and `docs/expenses.csv` for the
-running ledger. This project has meaningfully higher hardware costs
-than the fall-detector project (multiple motors, an autopilot board,
-a sonar module, several water-quality probes, a hull) — pursuing a
-department/sponsor grant is worth prioritizing early (see BUDGET.md).
+running ledger. This project has meaningful hardware costs (multiple
+motors, an autopilot board, a sonar module, several water-quality
+probes, a hull) — pursuing a department/sponsor grant is worth
+prioritizing early (see BUDGET.md).
 
 ## Safety note
 
