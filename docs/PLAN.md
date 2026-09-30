@@ -193,17 +193,9 @@ Stretch (add once the MVP survey mission works end-to-end):
 These are reasonable "phase 2" pitches if the team wants to continue
 past 6 months, but promising them now would overcommit the project.
 
-## Budget shape (rough, refine once you price real parts)
+## Budget
 
-- Hull/mechanical: largest single-item cost is usually the autopilot
-  board + GPS module + motors/ESCs, not the hull material itself
-  (plywood/foam/3D-printed hull is cheap)
-- Sonar module: a meaningful cost item — start with the cheapest
-  workable single-beam unit, upgrade later if the budget allows
-  multi-beam
-- Water quality probes: DO and pH probes are the pricier sensors, treat
-  as the first thing to cut if budget is tight, add back once other
-  parts are validated
+To be discussed and decided with the full team — see `docs/BUDGET.md`.
 
 ## Project infrastructure
 

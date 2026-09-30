@@ -74,11 +74,8 @@ See `CONTRIBUTING.md`.
 
 ## Budget & expenses
 
-See `docs/BUDGET.md` for the process and `docs/expenses.csv` for the
-running ledger. This project has meaningful hardware costs (multiple
-motors, an autopilot board, a sonar module, several water-quality
-probes, a hull) — pursuing a department/sponsor grant is worth
-prioritizing early (see BUDGET.md).
+See `docs/BUDGET.md` — funding approach and budget process are TBD,
+to be discussed with the full team.
 
 ## Safety note
 
